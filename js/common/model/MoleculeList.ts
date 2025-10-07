@@ -289,7 +289,8 @@ const COLLECTION_BOX_MOLECULES: CompleteMolecule[] = [
   MoleculeList.getMoleculeByName( 'Ozone' )!,
   MoleculeList.getMoleculeByName( 'Phosphine' )!,
   MoleculeList.getMoleculeByName( 'Silane' )!,
-  MoleculeList.getMoleculeByName( 'Sulfur Dioxide' )!
+  MoleculeList.getMoleculeByName( 'Sulfur Dioxide' )!,
+  MoleculeList.getMoleculeByName( 'Methylidynesilylmethylsilicon' )!
 ];
 
 COLLECTION_BOX_MOLECULES.forEach( molecule => {
